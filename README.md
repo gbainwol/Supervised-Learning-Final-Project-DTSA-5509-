@@ -23,48 +23,52 @@ CSV files used for modeling can be found here [project csvs](https://github.com/
 CSV files used to create dataset and for data exploration and backfilling [CSVs_created](https://github.com/gbainwol/Supervised-Learning-Final-Project-DTSA-5509-/tree/8af9ca2fc6be1b3b57486dcfaedb63bd5b3d5aa9/csvs_created)
 
 
- ## Description of Notebooks 
+ # Description of Notebooks 
 
- First Notebook:
+## First Notebook:
 
   
-Introduction: An overview of the project.
-Problem Statement: The specific challenges and issues addressed in the project.
-Goal: The objectives of the project.
-Metrics of Interest: Metrics used to evaluate the performance of the prediction model.
-ESPN Player Projection Metrics: A discussion of the metrics provided by ESPN for player projections.
-Hypothesis: The assumptions made or theories proposed that the project aims to test or validate.
-Further Readings on Fantasy Points: Additional resources and readings related to fantasy points.
-Scoring by Format for Fantasy Football: An explanation of different scoring formats in fantasy football, including PPR (Point Per Reception), Half PPR, and TE Premium.
-Notable Quote Regarding the Calculation of Weighted Opportunity: A quote or insight related to the calculation of weighted opportunities in fantasy football.
-2. Creating the Datasets
-Player_stats Columns: Description or manipulation of the columns in the player stats dataset.
-3. Data Cleaning
+- Introduction: An overview of the project.
+- Problem Statement: The specific challenges and issues addressed in the project.
+- Goal: The objectives of the project.
+- Metrics of Interest: Metrics used to evaluate the performance of the prediction model.
+- ESPN Player Projection Metrics: A discussion of the metrics provided by ESPN for player projections.
+- Hypothesis: The assumptions made or theories proposed that the project aims to test or validate.
+- Further Readings on Fantasy Points: Additional resources and readings related to fantasy points.
+- Scoring by Format for Fantasy Football: An explanation of different scoring formats in fantasy football, including PPR (Point Per Reception), Half PPR, and TE Premium.
+- Notable Quote Regarding the Calculation of Weighted Opportunity: A quote or insight related to the calculation of weighted opportunities in fantasy football.
+#### Creating the Datasets
+- Player_stats Columns: Description or manipulation of the columns in the player stats dataset.
+####  Data Cleaning
 Sorting Data for Active Players: Process of filtering and sorting data to focus on active players.
 Count of Active Players: A count or analysis of active players included in the dataset.
 Further Data Cleaning: Additional steps taken to clean and prepare the data for analysis.
 
 
-Second Notebook:
+## Second Notebook:
 
-Introduction: An overview of the project.
-Problem Statement: The specific challenges and issues addressed in the project.
-Goal: The objectives of the project.
-Metrics of Interest: Metrics used to evaluate the performance of the prediction model.
-ESPN Player Projection Metrics: A discussion of the metrics provided by ESPN for player projections.
-Hypothesis: The assumptions made or theories proposed that the project aims to test or validate.
-Further Readings on Fantasy Points: Additional resources and readings related to fantasy points.
-Further Briefing on Project: Additional explanation or context about the project.
-Scoring by Format for Fantasy Football: An explanation of different scoring formats in fantasy football, including PPR (Point Per Reception), Half PPR, and TE Premium.
-Notable Quote Regarding the Calculation of Weighted Opportunity: A quote or insight related to the calculation of weighted opportunities in fantasy football.
-2. Dataset Creation
+- Introduction: An overview of the project.
+- Problem Statement: The specific challenges and issues addressed in the project.
+- Goal: The objectives of the project.
+- Metrics of Interest: Metrics used to evaluate the performance of the prediction model.
+- ESPN Player Projection Metrics: A discussion of the metrics provided by ESPN for player projections.
+- Hypothesis: The assumptions made or theories proposed that the project aims to test or validate.
+- Further Readings on Fantasy Points: Additional resources and readings related to fantasy points.
+- Further Briefing on Project: Additional explanation or context about the project.
+- Scoring by Format for Fantasy Football: An explanation of different scoring formats in fantasy football, including PPR (Point Per Reception), Half PPR, and TE Premium.
+- Notable Quote Regarding the Calculation of Weighted Opportunity: A quote or insight related to the calculation of weighted opportunities in fantasy football.
+#### Dataset Creation
 The process and steps involved in creating the dataset used for the project.
-3. Exploratory Data Analysis (EDA)
-Analysis to understand the data and its characteristics. It includes the calculation of weighted opportunity for all active running backs, wide receivers, and tight ends, and the production of an average for the offensive and defensive team statistics to produce a ranking/rating.
-ARB Dataset: EDA specific to the dataset of active running backs.
-AWR Dataset: EDA specific to the dataset of active wide receivers.
-ATE Dataset: EDA specific to the dataset of active tight ends.
-4. Modeling
-The section where the supervised prediction model is developed, trained, and validated.
-5. Conclusion
-Final thoughts, findings, and insights derived from the project.
+### Exploratory Data Analysis (EDA)
+- Analysis to understand the data and its characteristics. It includes the calculation of weighted opportunity for all active running backs, wide receivers, and tight ends, and the production of an average for the offensive and defensive team statistics to produce a ranking/rating.
+#### ARB Dataset:
+- EDA specific to the dataset of active running backs.
+#### AWR Dataset:
+- EDA specific to the dataset of active wide receivers.
+
+#### ATE Dataset:
+ - EDA specific to the dataset of active tight ends.
+### Modeling
+- The section where the supervised prediction model is developed, trained, and validated.
+###  Conclusion
+- Final thoughts, findings, and insights derived from the project.
