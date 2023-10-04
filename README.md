@@ -14,5 +14,4 @@ Data Cleaning & Preprocessing: To ensure the quality of our analyses, we underwe
 
 The first notebook can be found at: [SupervisedLearningFinalProjectpart1.ipynb](https://github.com/gbainwol/Supervised-Learning-Final-Project-DTSA-5509-/blob/da89dac3c7acaabe42d3f4cccac54fc37f7ef0b4/SupervisedLearningFinalProjectpart1.ipynb)
 
-
-[DTSA_5509_Final_Project(4).ipynb](https://github.com/gbainwol/Supervised-Learning-Final-Project-DTSA-5509-/blob/a76a561b13d802962da81a1e7f0419dee9a80210/DTSA_5509_Final_Project%20(4).ipynb)
+The second notebook can be found at: [DTSA_5509_Final_Project(4).ipynb](https://github.com/gbainwol/Supervised-Learning-Final-Project-DTSA-5509-/blob/a76a561b13d802962da81a1e7f0419dee9a80210/DTSA_5509_Final_Project%20(4).ipynb)
