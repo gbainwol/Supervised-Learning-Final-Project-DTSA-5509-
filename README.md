@@ -40,9 +40,9 @@ CSV files used to create dataset and for data exploration and backfilling [CSVs_
 #### Creating the Datasets
 - Player_stats Columns: Description or manipulation of the columns in the player stats dataset.
 ####  Data Cleaning
-Sorting Data for Active Players: Process of filtering and sorting data to focus on active players.
-Count of Active Players: A count or analysis of active players included in the dataset.
-Further Data Cleaning: Additional steps taken to clean and prepare the data for analysis.
+- Sorting Data for Active Players: Process of filtering and sorting data to focus on active players.
+- Count of Active Players: A count or analysis of active players included in the dataset.
+- Further Data Cleaning: Additional steps taken to clean and prepare the data for analysis.
 
 
 ## Second Notebook:
