@@ -68,7 +68,7 @@ The process and steps involved in creating the dataset used for the project.
 
 #### ATE Dataset:
  - EDA specific to the dataset of active tight ends.
-### Modeling
+## Modeling
 - The section where the supervised prediction model is developed, trained, and validated.
-###  Conclusion
+##  Conclusion
 - Final thoughts, findings, and insights derived from the project.
