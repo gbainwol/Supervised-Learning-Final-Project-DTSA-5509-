@@ -20,3 +20,4 @@ The second notebook can be found at: [DTSA_5509_Final_Project(4).ipynb](https://
 
 CSV files used for modeling can be found here [project csvs](https://github.com/gbainwol/Supervised-Learning-Final-Project-DTSA-5509-/tree/eba234a51dae044f489d0f816bff16c4d3b3cd1b/project_csvs)
 
+CSV files used to create dataset and for data exploration and backfilling [CSVs_created](https://github.com/gbainwol/Supervised-Learning-Final-Project-DTSA-5509-/tree/8af9ca2fc6be1b3b57486dcfaedb63bd5b3d5aa9/csvs_created)
