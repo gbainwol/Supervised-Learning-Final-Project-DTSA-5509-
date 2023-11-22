@@ -1,5 +1,5 @@
-# Supervised-Learning-Final-Project-DTSA-5509-
-The repository for my final project. 
+# Supervised-Learning-Fantasy Football Project
+The repository for my fantasy football prediction project. 
 
 Fantasy Football Predictions: Weekly Starts and Sits Prediction Model
 Overview
